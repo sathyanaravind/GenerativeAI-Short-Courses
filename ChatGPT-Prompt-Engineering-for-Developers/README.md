@@ -2,6 +2,11 @@
 
 ## Introduction
 
+There are broadly two types of large language models(LLMs)
+1. Base LLMs
+2. Instruction Tuned LLM
+
+   
 ## Guidlines
 
 ### Principles of Prompting
