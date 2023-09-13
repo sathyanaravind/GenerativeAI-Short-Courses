@@ -1,7 +1,7 @@
 # GenerativeAI-Short-Courses
 This repository contains all the short courses on Generative AI from Deeplearning.AI
 
-1 - ChatGPT Prompt Engineering for Developers
+1 - ChatGPT Prompt Engineering for Developers(https://github.com/sathyanaravind/GenerativeAI-Short-Courses/tree/main/ChatGPT-Prompt-Engineering-for-Developers)
 
 2 - LangChain for LLM Application Development
 
