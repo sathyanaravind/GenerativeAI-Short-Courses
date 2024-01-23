@@ -23,6 +23,8 @@ This repository contains all the short courses on Generative AI from Deeplearnin
 
 11 - Understanding and Applying Text Embeddings with Vertex AI
 
+12 - [LLMOps](https://github.com/sathyanaravind/GenerativeAI-Short-Courses/tree/main/LLMOps)
+
 
 
 
