@@ -25,7 +25,7 @@ This repository contains all the short courses on Generative AI from Deeplearnin
 
 12 - [LLMOps](https://github.com/sathyanaravind/GenerativeAI-Short-Courses/tree/main/LLMOps)
 
-13 - [Semantic Search with Pinecone Vector Database](https://github.com/sathyanaravind/GenerativeAI-Short-Courses/tree/main/Building-Applications-with-Vector-Databases)
+13 - [Building Applications with Vector Databases](https://github.com/sathyanaravind/GenerativeAI-Short-Courses/tree/main/Building-Applications-with-Vector-Databases)
 
 
 
